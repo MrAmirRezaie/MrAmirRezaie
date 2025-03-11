@@ -1,180 +1,158 @@
 <div align="center">
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+Creative+Hub!;I'm+mramirrezaie+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <!-- Main Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff743-7631-47f2-b38f-51d83e675875.gif" width="700" alt="Developer Banner" />
+<pre>
+  __  __        _           _       ___                 _      
+ |  \/  | _ _  /_\   _ __  (_) _ _ | _ \ ___  ___ __ _ (_) ___ 
+ | |\/| || '_|/ _ \ | '  \ | || '_||   // -_)|_ // _` || |/ -_)
+ |_|  |_||_| /_/ \_\|_|_|_||_||_|  |_|_\\___|/__|\__,_||_|\___|
+                                                               
+</pre>
 
-  <!-- Main Heading -->
-  <h1 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">Hi, I'm mramirrezaie! 👨‍💻</h1>
-  <p style="font-size: 20px; color: #ffffff; font-family: 'Roboto', sans-serif;">
-    A passionate developer | Open-source enthusiast | Tech innovator | Problem solver
-  </p>
+<h1>Welcome to My Creative Universe! 🌌</h1>
+<h2>I'm mramirrezaie 🚀</h2>
 </div>
 
 ---
 
-<!-- Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-103740a4-7e2d-49bd-92e0-36d84a7b6b57.gif" width="500" alt="Separator" />
-</div>
+## **🚀 Developer | Innovator | Tech Visionary**  
+<p align="center">
+  💻 <b>Full-Stack Developer</b> | 
+  💡 <b>Innovator</b> | 
+  🔭 <b>Tech Visionary</b>
+</p>
 
-<!-- About Me Section -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">🚀 About Me</h2>
-  <p style="font-size: 18px; color: #ffffff; font-family: 'Roboto', sans-serif; max-width: 800px;">
-    I'm a dedicated developer with a passion for coding, building innovative projects, and contributing to the open-source community.  
-    My journey in tech is fueled by curiosity, creativity, and a desire to solve real-world problems with elegant code.  
-    When I'm not coding, you can find me exploring new technologies, sipping coffee ☕, or sharing knowledge on X!
-  </p>
-</div>
+- **Expertise**: Building scalable and efficient web applications.  
+- **Innovation**: Creating solutions that push the boundaries of technology.  
+- **Vision**: Shaping the future of tech with cutting-edge ideas.  
 
 ---
 
-<!-- Skills Section -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">🛠️ Skills & Tools</h2>
-  <p style="font-size: 16px; color: #ffffff; font-family: 'Roboto', sans-serif;">
-    Here are some of the technologies and tools I work with:
-  </p>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </div>
-</div>
+## **👨💻 Who Am I?**  
+<p align="center">
+  🚀 <b>Passionate Developer</b> | 
+  🌟 <b>Open-Source Advocate</b> | 
+  ⚙️ <b>Problem-Solving Enthusiast</b>
+</p>
+
+- 🌟 **Currently Crafting**: Next-gen projects blending creativity & tech.  
+- 📚 **Lifelong Learner**: Mastering cutting-edge languages & frameworks.  
+- 🤝 **Community Driven**: Contributing to impactful open-source initiatives.  
+- ☕ **Fun Fact**: I turn coffee into code under the moonlight! 🌙  
 
 ---
 
-<!-- Featured Projects Section -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">🌟 Featured Projects</h2>
-  <p style="font-size: 16px; color: #ffffff; font-family: 'Roboto', sans-serif;">
-    Here are some of the projects I'm proud of:
-  </p>
-  <table style="border: none; width: 80%;">
-    <tr>
-      <td align="center">
-        <a href="[project1](https://github.com/MrAmirRezaie/readDatabase)">
-          <img src="https://via.placeholder.com/300x200.png?text=Project+1" alt="Project 1" width="300" />
-        </a>
-        <p style="font-size: 16px; color: #ffffff;"><strong>Project 1</strong></p>
-        <p style="font-size: 14px; color: #cccccc;">A brief description of your project goes here.</p>
-      </td>
-      <td align="center">
-        <a href="[project2](https://github.com/MrAmirRezaie/WannaCry/blob/main/WannaCry.md)">
-          <img src="https://via.placeholder.com/300x200.png?text=Project+2" alt="Project 2" width="300" />
-        </a>
-        <p style="font-size: 16px; color: #ffffff;"><strong>Project 2</strong></p>
-        <p style="font-size: 14px; color: #cccccc;">A brief description of your project goes here.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+## **🛠 My Tech Arsenal**  
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+</p>
+
+### **🔍 Skills Breakdown**
+- **Frontend**: React, TypeScript, JavaScript, Tailwind CSS  
+- **Backend**: Node.js, Python, Express  
+- **DevOps**: Docker 🐳, Linux 🐧, CI/CD  
+- **Exploring**: Rust 🦀, Web3 🌐, AI/ML 🤖  
 
 ---
 
-<!-- Achievements Section -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">🏆 Achievements</h2>
-  <p style="font-size: 16px; color: #ffffff; font-family: 'Roboto', sans-serif;">
-    Some milestones I'm proud of:
-  </p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="font-size: 16px; color: #ffffff; margin-bottom: 10px;">
-      🏅 Contributed to 50+ open-source projects
-    </li>
-    <li style="font-size: 16px; color: #ffffff; margin-bottom: 10px;">
-      🏅 Published 10+ articles on tech blogs
-    </li>
-    <li style="font-size: 16px; color: #ffffff; margin-bottom: 10px;">
-      🏅 Built a project with 1,000+ stars on GitHub
-    </li>
-  </ul>
-</div>
+## **🌟 Featured Creations**  
+🚀 **A glimpse into my innovative projects**  
+
+### **Project 1: [Database Viewer and Exporter](https://github.com/MrAmirRezaie/readDatabase)**  
+📌 **Description**: Powerful tool to view and export databases.  
+✨ **Highlight**: Multi-format support & user-friendly UI.  
+
+### **Project 2: [Music/Video Downloader](https://github.com/MrAmirRezaie/M_V_Downloader)**  
+📌 **Description**: Fast downloader for media content.  
+✨ **Highlight**: High-quality downloads & platform compatibility.  
+
+### **Project 3: [WannaCry Forensic Analysis](https://github.com/MrAmirRezaie/WannaCry/blob/main/WannaCry.md)**  
+📌 **Description**: Deep dive into WannaCry ransomware.  
+✨ **Highlight**: Malware behavior insights & prevention strategies.  
 
 ---
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">📊 GitHub Stats</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mramirrezaie&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mramirrezaie&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mramirrezaie&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </div>
-</div>
+## **🏆 Achievements & Stats**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mramirrezaie&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mramirrezaie&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="45%" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mramirrezaie&theme=dracula&hide_border=true" width="45%" alt="GitHub Streak" /> -->
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mramirrezaie&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="45%" alt="Top Languages" />
+</p>
 
 ---
 
-<!-- Goals Section -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">🎯 My Goals</h2>
-  <p style="font-size: 16px; color: #ffffff; font-family: 'Roboto', sans-serif;">
-    Here are some things I'm working towards:
-  </p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="font-size: 16px; color: #ffffff; margin-bottom: 10px;">
-      🌟 Contribute to 100 open-source projects by the end of 2025
-    </li>
-    <li style="font-size: 16px; color: #ffffff; margin-bottom: 10px;">
-      🌟 Build a personal portfolio with Next.js and deploy it globally
-    </li>
-    <li style="font-size: 16px; color: #ffffff; margin-bottom: 10px;">
-      🌟 Learn Rust and build a high-performance application
-    </li>
-  </ul>
-</div>
+## **📅 My 2025 Vision**  
+✨ **Goals to conquer this year:**  
+- 🚀 Contribute to **100+ open-source projects**.  
+- 🌍 Launch a **Next.js-powered portfolio**.  
+- ⚡ Master **Rust** & build a high-performance app.  
 
 ---
 
-<!-- Connect with Me Section -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">🌐 Connect with Me</h2>
-  <p style="font-size: 16px; color: #ffffff; font-family: 'Roboto', sans-serif;">
-    Feel free to reach out to me on any of these platforms:
-  </p>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://x.com/mramirrezaie" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-    </a>
-    <a href="https://linkedin.com/in/mramirrezaie" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://yourwebsite.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-    </a>
-  </div>
-</div>
+## **🌐 Let’s Connect!**  
+<p align="center">
+  <a href="https://x.com/mramirrezaie" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/mramirrezaie" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/mramirrezaie" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/mramirrezaie" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
-<!-- Fun Fact Section -->
-<div align="center">
-  <h2 style="color: #00D4FF; font-family: 'Poppins', sans-serif;">🌈 Fun Fact</h2>
-  <p style="font-size: 18px; color: #ffffff; font-family: 'Roboto', sans-serif;">
-    I believe coffee ☕ and code 💻 are the perfect recipe for innovation!  
-    Also, I’m a night owl who codes best under the moonlight 🌙.
-  </p>
-  <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="300" alt="Coffee GIF" />
-</div>
+## **✨ Fun Corner**  
+<p align="center">
+  ☕ + 💻 = 🚀  
+  <b>Coffee + Code = Innovation</b>  
+  🌙 <i>I thrive coding under the moonlight!</i> ✨
+</p>
 
 ---
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-103740a4-7e2d-49bd-92e0-36d84a7b6b57.gif" width="500" alt="Separator" />
-  <p style="font-size: 14px; color: #ffffff; font-family: 'Roboto', sans-serif;">
-    Made with ❤️ by mramirrezaie | Inspired by the open-source community
-  </p>
+## **📊 Contribution Graph**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mramirrezaie&theme=dracula&hide_border=true" alt="Contribution Graph" />
+</p>
+<!--
+---
+## **📝 Blog & Articles**  
+📚 **Latest articles**:  
+- [Article 1](#): Dive into Next.js optimizations.  
+- [Article 2](#): Understanding Web3 fundamentals.  
+- [Article 3](#): Rust for high-performance systems.  
+-->
+---
+
+## **💬 Testimonials**  
+🌟 **What others say**:  
+> "*mramirrezaie’s code is clean, efficient, and innovative. A true asset!*"  
+> **— [Colleague Name], [Role]**  
+
+> "*Their contributions to open-source are game-changing.*"  
+> **— [Community Member], [Role]**  
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mramirrezaie&style=flat-square&color=00D4FF" alt="Profile Views" />
-</div>
+  <br/>
+  <i>Let’s build something amazing together! 🚀</i>
+</p>
