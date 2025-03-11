@@ -61,14 +61,14 @@
   <table style="border: none; width: 80%;">
     <tr>
       <td align="center">
-        <a href="https://github.com/mramirrezaie/project1">
+        <a href="[project1](https://github.com/MrAmirRezaie/readDatabase)">
           <img src="https://via.placeholder.com/300x200.png?text=Project+1" alt="Project 1" width="300" />
         </a>
         <p style="font-size: 16px; color: #ffffff;"><strong>Project 1</strong></p>
         <p style="font-size: 14px; color: #cccccc;">A brief description of your project goes here.</p>
       </td>
       <td align="center">
-        <a href="https://github.com/mramirrezaie/project2">
+        <a href="[project2](https://github.com/MrAmirRezaie/WannaCry/blob/main/WannaCry.md)">
           <img src="https://via.placeholder.com/300x200.png?text=Project+2" alt="Project 2" width="300" />
         </a>
         <p style="font-size: 16px; color: #ffffff;"><strong>Project 2</strong></p>
