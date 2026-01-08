@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/💼%20LinkedIn-MrAmirRezaie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn">
 </a>
 
-<a href="https://t.me/MrAmirRezaie">
+<a href="https://t.me/MrAmirR3zaie">
   <img src="https://img.shields.io/badge/📱%20Telegram-MrAmirRezaie-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram">
 </a>
 
-<a href="https://x.com/MrAmirRezaie">
+<a href="https://x.com/MrAmirR3zaie">
   <img src="https://img.shields.io/badge/𝕏%20Twitter-@MrAmirRezaie-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter">
 </a>
 
